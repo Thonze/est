@@ -43,6 +43,9 @@
     transform: rotate(-45deg) translateY(6px) translateY(-6px);
 }
 
+#banner{
+    background-image: url(../../../public/banner.png) ;
+}
 
 
 
